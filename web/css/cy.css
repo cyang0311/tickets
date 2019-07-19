@@ -1,0 +1,118 @@
+
+    .dltext{
+        font-size: 16px;
+        line-height: 50px;
+        
+    }
+    .dlbox{
+        position: relative;
+        top: -50px;
+        width: 90%;
+
+/*        background-color: #999999;*/
+        background: rgba(0,0,0,0.2);
+        margin: auto;
+    }
+.dlbox p{
+	padding-top: 10px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+    .dlshuru{
+    position: relative;
+    top: 15%;
+    width: 30%;
+    margin: auto;
+    }
+.dlbutton{
+	position: relative; 
+	left: 45%; 
+	padding-top: 30px;
+	padding-bottom: 10px;
+}
+.about-shenfen{
+	color: #b3bf06;
+    font-size: 1.5em;
+
+    font-family: 'Playball';
+}
+.gmbutton{
+	padding-bottom: -30px;
+}
+.plbox{
+	width: 85%;
+	border:groove;
+	border-color: #EBEBEB;
+	
+}
+.plbox ul{
+	display:block;
+}
+.gpshuru input{
+	margin: 20px;
+	width: 90%;
+	margin-left: 0;
+}
+.hr{
+	margin: 65px;
+}
+.plbg1{
+	background: url(../images/gg6.jpg);
+	height: 100%;
+	width: 85%;
+	border-style: inset;
+}
+.plbg2{
+	background: url(../images/gg1.jpg);
+	height: 100%;
+	width: 85%;
+	border-style: inset;
+}
+.plbg3{
+	background: url(../images/gg2.jpg);
+	height: 100%;
+	width: 85%;
+	border-style: inset;
+}
+.plbg4{
+	background: url(../images/gg3.jpg);
+	height: 100%;
+	width: 85%;
+	border-style: inset;
+}
+.plbg5{
+	background: url(../images/gg4.jpg);
+	height: 100%;
+	width: 85%;
+	border-style: inset;
+}
+.plbg6{
+	background: url(../images/gg5.jpg);
+	height: 100%;
+	width: 85%;
+	border-style: inset;
+}
+.hy span{
+	color: #ffffff;
+	font-size: 1.3em;
+	text-decoration: none;
+	font-family: 'Playball', cursive;
+}
+.glylist{
+	padding-top: 5px;
+	margin: 25px;
+	line-height: 35px;
+}
+input,submit{
+	border: solid 1px #212121;
+	color: #212121;
+	font-size: .875em;
+	padding: .5em 2em;
+	text-decoration: none;
+	background: none;
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-o-transition: 0.5s all;
+	-ms-transition: 0.5s all;
+}
